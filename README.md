@@ -39,7 +39,7 @@ Hi, I'm **Shazil Shahid**, a software engineer with a passion for backend API de
 - 🌱 Learning **cloud services** and enhancing my skills in **Kafka messaging systems**.
 - 💬 Ask me about **backend development**, **API design**, or **cloud integration**.
 - 👨‍💻 You can check all my projects in my [GitHub repositories](https://github.com/shazilshahid?tab=repositories).
-- 📫 How to reach me: [shazil@example.com](mailto:shazil@example.com).
+- 📫 How to reach me: [shaziltoffiq@hotmail.com](mailto:shaziltoffiq@hotmail.com).
 
 ---
 
